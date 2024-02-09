@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import { Link, Route, Routes } from "react-router-dom";
-import Login from "./pages/login/Login.component";
-import Register from "./pages/register/Register.component";
+import Login from "./pages/Login.page";
+import Register from "./pages/Register.page";
 
 import "./App.css";
 

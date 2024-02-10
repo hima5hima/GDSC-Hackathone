@@ -1,0 +1,30 @@
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 3rem;
+  width: 100%;
+  padding: 4rem;
+  background-color: #1976d20d;
+  border-radius: 6px;
+  text-align: center;
+}
+.logo {
+  width: 20rem;
+  margin: auto;
+}
+.logo img {
+  width: 100%;
+}
+.greating {
+  font-weight: 600;
+  font-size: 2rem;
+}
+.greating span {
+  color: #1976d2;
+}
+p {
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #92929d;
+}

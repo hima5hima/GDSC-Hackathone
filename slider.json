@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "src": "./src/assets/girl.jpg",
+    " title": "this is the  title of the image"
+  },
+  {
+    "id": 2,
+    "src": "./src/assets/girl.jpg",
+    " title": "this is the  title of the image"
+  },
+  {
+    "id": 3,
+    "src": "./src/assets/girl.jpg",
+    " title": "this is the  title of the image"
+  },
+  {
+    "id": 4,
+    "src": "./src/assets/girl.jpg",
+    " title": "this is the  title of the image"
+  }
+]

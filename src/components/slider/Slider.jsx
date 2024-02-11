@@ -32,7 +32,7 @@ const Slider = () => {
         Get to know the opinions of some of the participants in the Solution
         Challenge 2023
       </p>
-      <div className="overflow-hidden relative">
+      <div className="overflow-hidden ">
         <div
           className="flex transition-transform ease-out duration-500"
           style={{ transform: `translateX(-${current * 100}%)` }}

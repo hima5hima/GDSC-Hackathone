@@ -2,12 +2,12 @@ import React from "react";
 
 const Slide = ({ imagePath }) => {
   return (
-    <div className="flex-none w-full ">
+    <div className="flex-none w-full overflow-hidden">
       <div className="image-box mx-auto overflow-hidden ">
         <img
           src={`${imagePath}`}
           alt="girl image"
-          className="w-[100%] object-cover rounded-2xl"
+          className="object-cover rounded-2xl w-[300px] m-auto"
         />
       </div>
       <div className="text-box bg-white shadow-lg p-6 text-center w-4/5 rounded-2xl mx-auto mt-[-3rem] z-10 relative ">

@@ -1,19 +1,14 @@
 import React, { Fragment } from "react";
-import { Link, Route, Routes } from "react-router-dom";
-import Login from "./pages/Login.page";
-import Register from "./pages/Register.page";
+import { Route, Routes } from "react-router-dom";
 
 import "./App.css";
+import Auth from "./pages/Auth";
 
 const App = () => {
   return (
     <Fragment>
-      <Link to="/">Home</Link>
-      <Link to="/login">Login</Link>
-      <Link to="/register">Register</Link>
       <Routes>
-        <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
+        <Route path="/auth" element={<Auth />} />
       </Routes>
     </Fragment>
   );

@@ -1,7 +1,6 @@
 import React from "react";
-import classes from "./auth.module.css";
 const Auth = () => {
-  return <div>Auth</div>;
+  return <div className="text-3xl font-bold p-8">Auth</div>;
 };
 
 export default Auth;

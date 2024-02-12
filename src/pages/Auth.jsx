@@ -9,7 +9,6 @@ const Auth = () => {
         <Slider />
         <RegisterForm />
       </div>
-      {/* </div> */}
     </>
   );
 };

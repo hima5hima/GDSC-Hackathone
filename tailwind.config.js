@@ -4,11 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        main: "#1976D2",
+        main: "#FFC107",
+        mainDark: "#ffae00",
         textShade: "#92929D",
         bgColor: "#1976D20D",
+        btnHoverBg: "#F5F5F5",
       },
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
 };

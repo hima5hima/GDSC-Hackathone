@@ -1,10 +1,12 @@
 import React from "react";
 
-const Button = ({ children, fill, ...rest }) => {
+const Button = ({ children, fill, className, ...rest }) => {
   return (
     <button
-      className={`rounded-lg border border-main border-solid p-2 ${
-        fill ? "bg-main text-white hover:bg-blue-800" : "hover:bg-textShade"
+      className={`${className} rounded-lg border border-main border-solid p-2 ${
+        fill
+          ? "bg-main text-white hover:bg-mainDark hover:border-mainDark"
+          : "hover:bg-btnHoverBg"
       } transition-all duration-500 ease-out`}
       {...rest}
     >

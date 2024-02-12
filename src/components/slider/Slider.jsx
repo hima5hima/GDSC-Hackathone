@@ -19,13 +19,13 @@ const Slider = () => {
 
   return (
     <div className="p-12 bg-bgColor flex flex-col items-center gap-4">
-      <div className="image-box w-[200px] mx-auto">
+      <div className="image-box w-[300PX] mx-auto">
         <img
           src="/imgs/GDSC logo.png"
           alt="Al-Azhar Google Developer Student Club logo"
         />
       </div>
-      <h2 className="greetings text-primary text-2xl font-semibold">
+      <h2 className="greetings text-primary text-2xl font-semibold text-center">
         Welcome to <span className="text-main">Solution Challenge</span>
       </h2>
       <p className="text-textShade text-center text-lg">
@@ -34,7 +34,7 @@ const Slider = () => {
       </p>
       <div className="overflow-hidden ">
         <div
-          className="flex transition-transform ease-out duration-500"
+          className="flex transition-transform ease-out duration-500 "
           style={{ transform: `translateX(-${current * 100}%)` }}
         >
           {images.map((imagePath, i) => (

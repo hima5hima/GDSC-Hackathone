@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import React, { useState } from "react";
 import Slide from "../slide/slide";
 import { FaAngleRight, FaAngleLeft } from "react-icons/fa6";

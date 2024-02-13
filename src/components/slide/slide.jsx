@@ -1,4 +1,4 @@
-import React from "react";
+
 import Qoute from "../../../public/imgs/qoute.svg";
 const Slide = ({ imagePath }) => {
   return (

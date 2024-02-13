@@ -1,4 +1,4 @@
-import LoginForm from "../components/login-fom/LoginForm";
+
 import RegisterForm from "../components/register-form/RegisterForm";
 import Slider from "../components/slider/slider";
 const Auth = () => {

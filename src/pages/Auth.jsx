@@ -5,6 +5,7 @@ import Slider from "../components/slider/slider";
 const Auth = () => {
   return (
     <>
+      {/*  */}
       <div className="container mx-auto grid grid-cols-2 gap-4 max-[900px]:grid-cols-1">
         <Slider />
         <RegisterForm />

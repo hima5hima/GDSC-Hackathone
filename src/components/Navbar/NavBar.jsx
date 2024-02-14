@@ -10,7 +10,7 @@ const NavBar = () => {
         />
       </div>
   
-       <div className="hidden md:flex gap-5 border-2 p-2 rounded-xl ">
+       <div className="hidden md:flex justify-between md:gap-5 border-0 md:border-2 p-2 rounded-xl ">
          <Button fill>Teams</Button>
          <Button className={'border-0 text-textShade'}>Projects</Button>
          <Button className={'border-0 text-textShade'}>About Us</Button>

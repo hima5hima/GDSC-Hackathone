@@ -1,0 +1,121 @@
+[
+  {
+    "color": "#EB1C2D",
+    "image": "/imgs/aims/1.png",
+    "title": "No Poverty",
+    "slogan": "End Poverty in all its forms, everywhere.",
+    "examples": ["Donation Match", "OKO Finance", "Solar Freeze"]
+  },
+  {
+    "color": "#D3A029",
+    "image": "/imgs/aims/2.png",
+    "title": "Zero Hunger",
+    "slogan": "End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.",
+    "examples": ["Indigo Drones", "Skill Lab", "Apic"]
+  },
+  {
+    "color": "#279B48",
+    "image": "/imgs/aims/3.png",
+    "title": "Good Health and Wellbeing",
+    "slogan": "Ensure healthy lives and promote well-being for all, at all ages.",
+    "examples": ["Kindara", "Wonder Tree", "Wonder"]
+  },
+  {
+    "color": "#C31F33",
+    "image": "/imgs/aims/4.png",
+    "title": "Quality Education",
+    "slogan": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+    "examples": ["Donation Match", "OKO Finance", "Solar Freeze"]
+  },
+  {
+    "color": "#EF402B",
+    "image": "/imgs/aims/5.png",
+    "title": "Gender Equality",
+    "slogan": "",
+    "examples": ["Donation Match", "Skill Lab", "Kindara"]
+  },
+  {
+    "color": "#00AED9",
+    "image": "/imgs/aims/6.png",
+    "title": "Clean Water and Sanitation",
+    "slogan": "",
+    "examples": ["Flow", "Remora"]
+  },
+  {
+    "color": "#FDB713",
+    "image": "/imgs/aims/7.png",
+    "title": "Affordable and Clean Energy",
+    "slogan": "",
+    "examples": ["Consider submitting to this category and making an impact!"]
+  },
+  {
+    "color": "#8F1838",
+    "image": "/imgs/aims/8.png",
+    "title": "Decent Work and Economic Growth",
+    "slogan": "",
+    "examples": ["Skill Lab", "Donation Match"]
+  },
+  {
+    "color": "#F36D25",
+    "image": "/imgs/aims/9.png",
+    "title": "Industry, Innovation and Infrastructure",
+    "slogan": "",
+    "examples": ["Donation Match", "ReVita"]
+  },
+  {
+    "color": "#E11484",
+    "image": "/imgs/aims/10.png",
+    "title": "Reduced Inequalities",
+    "slogan": "",
+    "examples": ["Wonder Reader", "Hear Sitter"]
+  },
+  {
+    "color": "#F99D26",
+    "image": "/imgs/aims/11.png",
+    "title": "Sustainable Cities and Communities",
+    "slogan": "",
+    "examples": ["OKO Finance", "Head Home"]
+  },
+  {
+    "color": "#CF8D2A",
+    "image": "/imgs/aims/12.png",
+    "title": "Responsible Consumption and Production",
+    "slogan": "",
+    "examples": ["DeCarbonUs", "FarmX"]
+  },
+  {
+    "color": "#48773E",
+    "image": "/imgs/aims/13.png",
+    "title": "Climate Action",
+    "slogan": "",
+    "examples": ["FarmX", "SlugLoop"]
+  },
+  {
+    "color": "#007DBC",
+    "image": "/imgs/aims/14.png",
+    "title": "Life Below Water",
+    "slogan": "",
+    "examples": ["Sub Heading Goes Here", "Sub Heading Goes Here"]
+  },
+  {
+    "color": "#3EB049",
+    "image": "/imgs/aims/15.png",
+    "title": "Life on Land",
+    "slogan": "",
+    "examples": ["Sub Heading Goes Here", "Sub Heading Goes Here"]
+  },
+  {
+    "color": "#02558B",
+    "image": "/imgs/aims/16.png",
+    "title": "Peace, Justice and Strong Institutions",
+    "slogan": "",
+    "examples": ["Sub Heading Goes Here", "Sub Heading Goes Here"]
+  },
+  {
+    "color": "#183668",
+    "image": "/imgs/aims/17.png",
+    "title": "Partnerships",
+    "slogan": "",
+    "examples": ["Sub Heading Goes Here", "Sub Heading Goes Here"]
+  }
+]

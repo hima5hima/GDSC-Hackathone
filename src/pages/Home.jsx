@@ -6,14 +6,15 @@ import Sponsers from "../components/sponsers/Sponsers";
 import Footer from "../components/Footer/Footer";
 
 const Home = () => {
-  return (<>
-          <Projects />
-          <Aims />
-          <NavBar/>
-          <Sponsers/>
-          <Footer/>
-       </>);
-}
-
+  return (
+    <>
+      <NavBar />
+      <Sponsers />
+      <Projects />
+      <Aims />
+      <Footer />
+    </>
+  );
+};
 
 export default Home;

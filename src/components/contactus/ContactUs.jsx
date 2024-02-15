@@ -33,7 +33,6 @@ export default function ContactUs() {
         </h2>
         <div className="grid lg:grid-cols-2 sm:lg:grid-cols-1 w-4/5 gap-4 mt-10  ">
           {icons.map((icon, i) => (
-            // eslint-disable-next-line react/jsx-key
             <div
               key={i}
               className=" border border-main h-14 rounded-md flex justify-center  items-center flex-row gap-4"
@@ -73,7 +72,6 @@ export default function ContactUs() {
             </h2>
             <div>
               {formInfomation.map((item, i) => (
-                // eslint-disable-next-line react/jsx-key
                 <div key={i} className="flex flex-col gap-2 mt-3">
                   <label>{item.lable}</label>
                   <input
@@ -95,11 +93,8 @@ export default function ContactUs() {
               />
             </div>
 
-            <button
-              className=" self-center bg-main text-white py-4 hover:bg-blue-700 w-2/4  rounded-md transition-all duration-500 ease-out "
-            
-            >
-              Send message 
+            <button className=" self-center bg-main text-white py-4 hover:bg-blue-700 w-2/4  rounded-md transition-all duration-500 ease-out ">
+              Send message
             </button>
           </div>
         </form>

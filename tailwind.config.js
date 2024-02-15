@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        main: "#FFC107",
-        mainDark: "#ffae00",
+        main: "#1976D2",
+        mainDark: "#005fbe",
         textShade: "#92929D",
         bgColor: "#1976D20D",
         btnHoverBg: "#F5F5F5",

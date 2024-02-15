@@ -1,7 +1,14 @@
 import React from "react";
+import Projects from "../components/projects/Projects";
+import Aims from "../components/aims/Aims";
 
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <div>
+      <Projects />
+      <Aims />
+    </div>
+  );
 };
 
 export default Home;

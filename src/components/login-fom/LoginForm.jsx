@@ -11,7 +11,7 @@ const LoginForm = () => {
       <h2 className="greetings text-primary text-4xl font-semibold max-[1100px]:text-3xl max-[1000px]:text-2xl">
         Login To <span className="text-main">Solution Challenge</span>
       </h2>
-      <p className="text-textShade text-lg ">
+      <p className="text-textShade text-lg">
         Welcome back! Please log in to access your account.
       </p>
       <form className="flex flex-col gap-4">

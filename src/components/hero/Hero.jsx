@@ -2,7 +2,6 @@ import React from "react";
 
 export const Hero = () => {
   return (
-    
     <section className="p-2 md:container mx-auto my-4">
       <div className="md:flex md:justify-around md:items-center">
         <div className="md:w-5/12">
